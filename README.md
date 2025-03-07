@@ -24,7 +24,7 @@ Machine Learning Model: Decision Tree Regressor with high accuracy (R² = 0.9994
 
 Power BI Dashboard: Interactive tool to explore key sales insights.
 
-Usage
+Usage :
 
 Use Jupyter notebooks for data analysis.
 
