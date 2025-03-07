@@ -35,7 +35,10 @@ Explore insights via the Power BI dashboard.
 
  PowerBi Dashboard :
 
- ![Screenshot (60)](https://github.com/user-attachments/assets/b8aca804-2c22-4909-ab33-6d72295e7180)
+ ![Screenshot (60)](https://github.com/user-attachments/assets/b8aca804-2c22-4909-ab33-6d72295e7180) 
+
+Conclusion for Coffee Sales Analysis:
+The analysis reveals that Americano with Milk, Latte, and Cappuccino are the top-selling coffee types, with sales peaking at 10:00 AM and 7:00 PM. Card payments dominate transactions, and Latte contributes the highest revenue. Sales trends indicate steady demand, enabling better inventory planning. The Decision Tree Regressor model accurately predicts sales, supporting business optimization in stock management and pricing strategies.
 
 
 
